@@ -2,10 +2,8 @@
 Unsupervised classification (K-means clustering) using latent values
 
 Input: latent.npy
-Output: vae_mlp_enconder.png
-        vae_mlp_deconder.png
-        vae_mlp_mnist_s1.h5
-        latent.npy
+Output: latent_class2.png
+        latent_class2.npy
         
 """
 
